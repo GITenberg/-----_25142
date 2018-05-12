@@ -1,0 +1,33 @@
+_repo: '-----_25142'
+_version: 0.1.0
+alternative_title: Wang Yangming Quan Ji
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Wang, Yangming
+    aliases:
+    - Wang, Shouren
+    - 王陽明
+    birthdate: 1472
+    deathdate: 1529
+    gutenberg_agent_id: '31097'
+    url: http://www.gutenberg.org/2009/agents/31097
+    wikipedia: http://en.wikipedia.org/wiki/Wang_Yangming
+description: ''
+gutenberg_issued: '2008-04-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '25142'
+language: zh
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PL'
+- !lcsh 'Neo-Confucianism'
+- !lcsh 'Philosophy, Chinese'
+- !lcc 'B'
+title: 王陽明全集
+url: http://www.gutenberg.org/ebooks/25142
